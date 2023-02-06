@@ -28,7 +28,7 @@
   <tr>
     <td>Home Screen</td>
      <td>Upcoming Screen</td>
-     <td>Detail Movie Screen</td>
+     <td>Detail Screen</td>
       <td>Search Screen</td>
      <td>Download in Home</td>
      <td>Download Screen</td>
