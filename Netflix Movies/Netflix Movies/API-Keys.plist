@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>4cc1059d1158c3a4e6826feaf23b0067</string>
+	<key>YoutubeAPI_KEY</key>
+	<string>AIzaSyCs8KkTfBX8OP7WnJhuNrbrdjBchZsodXE</string>
+	<key>requiredOnboarding</key>
+	<array>
+		<string>Tilt</string>
+		<string>Tap</string>
+		<string>Arrow Swipe</string>
+		<string>Scroll Drag</string>
+		<string>Trackpad Capture</string>
+	</array>
+</dict>
+</plist>
