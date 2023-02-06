@@ -16,7 +16,8 @@
 - Download
     + Download your favorite movies
 - Detail Movie 
-    + 
+    + Trailer movie
+    + Play movie
 
 ### The design patterns used: 
 - Singleton pattern
@@ -29,6 +30,8 @@
 d0b0.png)
 
 ![simulator_screenshot_A9A5B829-D885-4795-AD59-0469543F10E4](https://user-images.githubusercontent.com/56188558/217026132-56eec3da-a352-419f-b316-15645d1941a8.png)
+
+![simulator_screenshot_C343E7CE-F988-41EF-929E-068E6533FCB6](https://user-images.githubusercontent.com/56188558/217027104-02e0004e-cbd9-453b-bc74-41c79de97a53.png)
 
 ![simulator_screenshot_819EC54E-0238-4564-B305-012011DAAF13](https://user-images.githubusercontent.com/56188558/217026237-d1fdbfee-715a-4a4c-8498-b6abf9eefa18.png)
 
