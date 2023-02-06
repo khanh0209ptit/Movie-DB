@@ -1,6 +1,6 @@
 # Movie-DB
 ## This is a simple movie watching app to entertain you after a long tiring day
-###Includes functions
+### Includes functions
 - Home page Movie
     + Random banner Movie
     + Trending Movie
