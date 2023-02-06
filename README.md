@@ -25,6 +25,7 @@
 
 ### Pictures or videos:
 <img src = "https://user-images.githubusercontent.com/56188558/217025914-677d6be4-d7d9-476f-9171-31a84b3deae2.png" width="250"> 
+<img src = "https://user-images.githubusercontent.com/56188558/217025914-677d6be4-d7d9-476f-9171-31a84b3deae2.png" width="250"> 
 
 ![simulator_screenshot_A9A5B829-D885-4795-AD59-0469543F10E4](https://user-images.githubusercontent.com/56188558/217026132-56eec3da-a352-419f-b316-15645d1941a8.png)
 
