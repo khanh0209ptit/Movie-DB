@@ -25,7 +25,8 @@
 
 ### Pictures or videos:
 <img src = "https://user-images.githubusercontent.com/56188558/217025914-677d6be4-d7d9-476f-9171-31a84b3deae2.png" width="250"> 
-<img src="https://user-images.githubusercontent.com/12640832/89098241-e7fdf680-d40f-11ea-8521-a27052809509.png" width="250" alt="Hello World 1" /> <img src="https://user-images.githubusercontent.com/12640832/89098278-33b0a000-d410-11ea-8472-5fe9a9bf38a5.png" width="250" alt="Hello World 2" />
+<img src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="200"/> <img src="https://openclipart.org/download/71101/two.svg" width="300"/>
+
 
 ![simulator_screenshot_A9A5B829-D885-4795-AD59-0469543F10E4](https://user-images.githubusercontent.com/56188558/217026132-56eec3da-a352-419f-b316-15645d1941a8.png)
 
