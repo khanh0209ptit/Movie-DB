@@ -31,6 +31,12 @@
 <img src = "https://user-images.githubusercontent.com/56188558/217026283-5c0c29bb-67a3-4d1f-99f4-abe3b9065c08.png" width="250"> 
 <img src = "https://user-images.githubusercontent.com/56188558/217026351-17cf704b-422c-42f6-8815-56b9f7510f2c.png" width="250"> 
 
+<tr>
+    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+</tr>
+
 
 
 
