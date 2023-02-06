@@ -16,3 +16,6 @@
 - Download
     + Download your favorite movies
 
+## The design patterns used: 
+- Singleton pattern
+- Repository pattern
